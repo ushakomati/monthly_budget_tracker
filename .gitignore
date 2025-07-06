@@ -1,0 +1,14 @@
+# Ignore SQLite database file
+budget_tracker.db
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings folder
+.vscode/
+
+# Mac system files
+.DS_Store
